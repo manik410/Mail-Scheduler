@@ -4,7 +4,7 @@ API to schedule emails and send them Using MongoDb,Nodejs
 
 ***How to run the project***
 * 1 Download the project and in the project directory run npm install to install the required dependencies.
-* 2 In the .env file enter your email id and password of the account from which you want to send mails.
+* 2 In the .env file enter your email id and password of the account from which you want to send mails and the link of your mongodb database.
 * 3 run node server.js to start the project
 
 ***API endpoints***
