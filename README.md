@@ -56,7 +56,6 @@ API to schedule emails and send them Using MongoDb,Nodejs
    **Method:**
   `GET`
 
-  ***Body:*** {"recipient":"email of the receiver"}
 * **To get the list of mails by the mail-id of the receiver**
    
    **URL:** http://localhost:3000/filtermails
